@@ -5,11 +5,12 @@ body {font-family: 'Caveat', cursive;
 h1 {font-size: 40px;
 text-align: center;
 line-height: .5;
-color: hsl(315, 79%, 67%);}
-h2 {font-size: 25px;
+color: hsl(315, 53%, 52%);}
+h2 {font-size: 27px;
 text-align: center;
 text-decoration: underline;
 text-decoration-color: hsl(315, 79%, 67%);
-line-height: .01;}
+line-height: .01;
+color: hsl(315, 53%, 52%);}
 p {font-size: 20px;
 line-height: 1.5;}
