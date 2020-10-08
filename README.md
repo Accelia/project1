@@ -1,5 +1,5 @@
-Active learning: Adding some features to an HTML document
-=========================================================
+Your Project
+============
 
 Create your first HTML page using the instructions from MDN's Getting Started with HTML, using the [instructions here](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Active_learning_Adding_some_features_to_an_HTML_document)
 
